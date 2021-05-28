@@ -1,9 +1,13 @@
 # Radar-System-for-Obstacle-Detection
 Components Used:
 1> Arduino UNO
+
 2> HC-SRO4 Ultra Sonic Sensor
+
 3> TowerPro SG 90 Micro Servo Moto
+
 4> Jumper Wires 
+
 5> Laptop/PC
 
 
